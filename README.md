@@ -1,16 +1,34 @@
-## Hi there 👋
+# Spencer Cao
 
-<!--
-**spencer2026-1/spencer2026-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Business Analytics — UC Irvine  
+📊 B.S. Mathematics & Economics (Minor in Finance) — UC San Diego  
+📍 California  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+
+I’m a data-driven Analyst with a strong foundation in mathematics, economics, and machine learning. I focus on transforming complex datasets into clear, actionable insights that support strategic decision-making and improve organizational performance.
+
+---
+
+## 🚀 Current Focus
+
+- Optimizing enterprise data workflows at **AquaTrax**
+- Automating AMI and billing data preprocessing by building an agentic AI tool.
+- Developing dashboards and analytics solutions for operational reporting
+
+---
+
+## 🛠 Tools I Use
+
+**Languages:** Python, SQL
+**Analytics:** Advanced Excel, Statistical Modeling, Machine Learning  
+**Visualization:** Power BI, Tableau  
+**Other:** Financial Forecasting, Budgeting, Data Cleaning, Data Management, Dashboard Development
+
+---
+
+## 📫 How to Reach Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/spcao/  
